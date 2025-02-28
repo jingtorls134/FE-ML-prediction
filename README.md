@@ -1,4 +1,5 @@
 # Formation Energy Prediction of Material Crystal Structures using Deep Learning
+[![DOI](https://zenodo.org/badge/939680409.svg)](https://doi.org/10.5281/zenodo.14941959)
  
 **V. Torlao**, **E. A. Fajardo**
 
