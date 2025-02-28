@@ -1,7 +1,6 @@
 # Formation Energy Prediction of Material Crystal Structures using Deep Learning
-[![DOI](https://zenodo.org/badge/939680409.svg)](https://doi.org/10.5281/zenodo.14941959)
- 
 **V. Torlao**, **E. A. Fajardo**
+[![DOI](https://zenodo.org/badge/939680409.svg)](https://doi.org/10.5281/zenodo.14941959)
 
 ## Abstract  
 Determining the stability of chemical compounds is essential for advancing material discovery. In this study, we introduce a novel deep neural network model designed to predict a crystal's **formation energy**, which identifies its stability property. Our model leverages **elemental fractions** derived from material composition and incorporates the **symmetry classification** as an additional input feature. The materials' symmetry classifications represent the **crystal polymorphs** and are crucial for understanding phase transitions in materials. Our findings demonstrate that the integration of **crystal system**, **point group**, or **space group** symmetry information significantly enhances the predictive performance of the developed deep learning architecture, where the highest accuracy was achieved when space group classification was incorporated. In addition, we use the same model architecture to predict the **energy above hull**, an indicator to material stability, with formation energy as an additional input feature.
